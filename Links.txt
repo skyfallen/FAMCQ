@@ -1,0 +1,2 @@
+Benchmarking Nearest Neighbor Searches in Python - http://jakevdp.github.io/blog/2013/04/29/benchmarking-nearest-neighbor-searches-in-python/
+FLANN - Fast Library for Approximate Nearest Neighbors - http://www.cs.ubc.ca/research/flann/#download
